@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3050","@WEB Verify login page with invalid credential","","Fri Aug 23 19:22:53 IST 2024","passed","Fri Aug 23 19:22:56 IST 2024","","uitestcases/verify-login-screen.spec.js","",""
+"","9993","@WEB Createthe order for the product - ZARA COAT 3","","Fri Aug 23 19:23:03 IST 2024","passed","Fri Aug 23 19:23:13 IST 2024","","uitestcases/create-order-e2e.spec.js","",""
+"","2796","@WEB Verify login page with valid credential","","Fri Aug 23 19:22:53 IST 2024","passed","Fri Aug 23 19:22:55 IST 2024","","uitestcases/verify-login-screen.spec.js","",""
+"","9305","@WEB Createthe order for the product - ADIDAS ORIGINAL","","Fri Aug 23 19:22:53 IST 2024","passed","Fri Aug 23 19:23:02 IST 2024","","uitestcases/create-order-e2e.spec.js","",""

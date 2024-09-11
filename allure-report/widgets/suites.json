@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"5d0eebff97de49c9c0207279ed7972b1","name":"uitestcases/verify-login-screen.spec.js","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}},{"uid":"ee8873221f0e8ab712c74d6162aa017d","name":"uitestcases/create-order-e2e.spec.js","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}

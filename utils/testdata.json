@@ -1,0 +1,28 @@
+{
+   "baseURL": "https://rahulshettyacademy.com/client",
+   "email": "pooja@test.com",
+   "password": "Test@123",
+   "invalidPassword": "Test@12345",
+   "orderdata": [
+     {
+       "productName": "ADIDAS ORIGINAL",
+       "countrySearchString": "ind",
+       "shippingCountry": "India",
+       "creditCardNo": "4542 1111 9292 2222",
+       "cardName": "TestUser",
+       "cvv": "123",
+       "coupon": "rahulshettyacademy"
+     },
+     {
+      
+       "productName": "ZARA COAT 3",
+       "countrySearchString": "ger",
+       "shippingCountry": "Germany",
+       "creditCardNo": "9898 1234 8765 6222",
+       "cardName": "TestUser",
+       "cvv": "123",
+       "coupon": "rahulshettyacademy"
+     }
+   ]
+ }
+ 

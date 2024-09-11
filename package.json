@@ -1,0 +1,21 @@
+{
+  "name": "website-automation-playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "regressionWeb" : "npx playwright test --config webConfig.js --project=chrome --reporter=line,allure-playwright",
+    "regressionMobile" : "npx playwright test --config mobileConfig.js --project=safari --reporter=line,allure-playwright"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.46.1",
+    "@types/node": "^22.2.0",
+    "allure-playwright": "^3.0.0-beta.10"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}
